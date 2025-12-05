@@ -4,8 +4,8 @@
 <table>
 <tr>
 <td width="230" align="center" valign="middle">
-<img src="https://static.macupdate.com/products/45899/l/pdf-to-word-converter-logo.png?v=1609841561" width="200"><br>
-<a href="https://mac-share-apps.github.io/.github/">
+<img src="https://www.flyingbee.com/products/pdf-to-word-mac/images/pdf-to-word-icon@2x.png" width="200"><br>
+<a href="https://mac-share-apps.github.io/.github/ptw">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 <div align="center">
